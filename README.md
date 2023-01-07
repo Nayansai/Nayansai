@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nayansai
 - 👀 I’m interested in Any Creativity work
 - 🌱 I’m currently pursuing my Graduation🎓 
-- 💞️ I’m looking to collaborate with Work Artists
+- 🤝 I’m looking to collaborate with Work Artists
 - 🧑‍💻 pursuing U.G in CSE
 - 📫 Reach me through Email(nayansaimalapati@gmail.com)📧 
 
