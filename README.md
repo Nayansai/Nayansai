@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing my Graduation🎓 
 - 🤝 I’m actively seeking for Internships
 - 🧑‍💻 pursuing U.G in CSE
-- 📫 Reach me through Email(21wj1a05j3@gniindia.org)📧 
+- 📫 Reach me through Email(nayansaimalapati2002@gmail.com)📧 
 
 <!---
 Nayansai/Nayansai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
