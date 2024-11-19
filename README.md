@@ -13,7 +13,7 @@ I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, wi
 
 Salesforce and Canva Designing.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayansai&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayansai&langs_count=20&layout=compact&theme=radical)
 
 
 ## 🌱 Currently Exploring
