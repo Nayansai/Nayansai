@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, with a strong passion for full stack,  Salesforce and ​Software development. Through rigorous coursework and active ​participation in extracurricular activities I have sharpened my ​skills. I am eager to apply my theoretical knowledge in real-world ​settings, bringing innovative perspectives to simplify tasks and ​address challenges with creativity.
 
-![Nayansai's Stats](https://github-readme-stats.vercel.app/api?Nayansai=Nayansai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Nayansai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
@@ -11,15 +11,12 @@ I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, wi
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Learning Full Stack Web Development.
   - Exploring the ins and outs of React and NodeJs for dynamic front-end and Back-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with SQL, MongoDB and more...
+  - Building Salesforce pages.
   - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
