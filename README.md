@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, with a strong passion for full stack,  Salesforce and ​Software development. Through rigorous coursework and active ​participation in extracurricular activities I have sharpened my ​skills. I am eager to apply my theoretical knowledge in real-world ​settings, bringing innovative perspectives to simplify tasks and ​address challenges with creativity.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?Nayansai=<Nayansai>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?Nayansai=Nayansai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
