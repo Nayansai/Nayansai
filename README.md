@@ -25,7 +25,7 @@ Salesforce and Canva Designing.
 
 ## 📬 Get in Touch
 
-- Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayansaireddy/)
+- Connect with me on    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayansaireddy/)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
