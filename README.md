@@ -13,6 +13,9 @@ I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, wi
 
 Salesforce and Canva Designing.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development.
