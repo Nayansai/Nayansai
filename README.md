@@ -23,7 +23,8 @@ I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, wi
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/nayansaireddy/)
+- Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayansaireddy/)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
