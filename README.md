@@ -9,7 +9,8 @@ I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, wi
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,js,react,nodejs,mongodb,mysql,canva,figma,webflow,linux,git,github,salesforce)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,js,react,nodejs,mongodb,mysql,figma,webflow,linux,git,github)](https://skillicons.dev)
+Salesforce and Canva Designing.
 
 ## 🌱 Currently Exploring
 
