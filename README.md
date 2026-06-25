@@ -65,7 +65,7 @@ I'm a **B.Tech Computer Science** student at **GNITC**, focused on **AI engineer
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nayansai&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A12&title_color=67E8F9&icon_color=A855F7&text_color=B4B4D0" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayansai&hide_border=true&background=0A0A12&stroke=67E8F9&ring=A855F7&fire=67E8F9&currStreakLabel=B4B4D0&sideLabels=B4B4D0&dates=6B6B85&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Nayansai&hide_border=true&background=0A0A12&stroke=67E8F9&ring=A855F7&fire=67E8F9&currStreakLabel=B4B4D0&sideLabels=B4B4D0&dates=6B6B85&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
 
 <br/>
 
