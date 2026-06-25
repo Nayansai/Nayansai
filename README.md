@@ -1,105 +1,41 @@
-<div align="center">
+# Hi, I'm Nayan Sai 👋
 
-<img src="https://raw.githubusercontent.com/Nayansai/Nayansai/main/glass-header.svg" alt="Nayan Sai — AI Engineer · Salesforce Developer · Full Stack" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=Nayansai&color=blue)
 
-<br/>
 
-<a href="https://github.com/Nayansai">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+making;Salesforce+Developer+%26+Admin;Full+Stack+Web+Developer;Glassmorphism+%26+motion+enthusiast" alt="Typing SVG" />
-</a>
+I am a passionate B.Tech student in Computer Science Engineering at ​GNITC, with a strong passion for AI Engineer, Salesforce development and Full stack. Through rigorous coursework and active ​participation in extracurricular activities I have sharpened my ​skills. I am eager to apply my theoretical knowledge in real-world ​settings, bringing innovative perspectives to simplify tasks and ​address challenges with creativity.
 
-<br/><br/>
 
-<a href="https://www.linkedin.com/in/nayansaireddy/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Nayansai&style=flat-square&color=67E8F9&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Nayansai?style=flat-square&color=A855F7&labelColor=0A0A12&logo=github" alt="Followers" />
 
-</div>
 
----
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,bootstrap,js,react,nodejs,mongodb,mysql,figma,webflow,linux,git,github)](https://skillicons.dev)
 
-## 👋 About Me
+Salesforce and Canva Designing.
 
-I'm a **B.Tech Computer Science** student at **GNITC**, focused on **AI engineering, Salesforce development, and full-stack web**. I like turning theory into things people can actually use — clean Apex on the platform side, and polished, motion-driven interfaces on the front end.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayansai&langs_count=20&layout=compact&theme=radical)
 
-- 🔭 Currently building with **React + Salesforce + the Claude API**
-- 🌱 Going deeper on **full-stack** — React, Node.js, PostgreSQL, MongoDB
-- 🎨 Obsessed with **glassmorphism, smooth animations, and premium UI/UX**
-- 💬 Ask me about **Apex, LWC, DevOps pipelines, or building AI-powered apps**
 
----
+## 🌱 Currently Exploring
 
-## 🛠️ Tech Stack
+- 🚀 Learning Full Stack Web Development.
+  - Exploring the ins and outs of React and NodeJs for dynamic front-end and Back-end experiences.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with SQL, MongoDB and more...
+  - Building Salesforce pages.
+  - Diving into PostgreSQL for efficient and scalable database management.
 
-<div align="center">
 
-**Languages & Core**
+## 📬 Get in Touch
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" alt="languages" />
+- Connect with me on -- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayansaireddy/)
 
-**Frontend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,figma" alt="frontend" />
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-**Data & Platform**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,linux,git,github" alt="data" />
 
-<br/>
-
-**Salesforce** · **Canva** · **Claude API & Agent Skills**
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nayansai&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A12&title_color=67E8F9&icon_color=A855F7&text_color=B4B4D0" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=Nayansai&hide_border=true&background=0A0A12&stroke=67E8F9&ring=A855F7&fire=67E8F9&currStreakLabel=B4B4D0&sideLabels=B4B4D0&dates=6B6B85&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayansai&langs_count=10&layout=compact&hide_border=true&bg_color=0A0A12&title_color=67E8F9&text_color=B4B4D0" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nayansai&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayansai&bg_color=0A0A12&color=67E8F9&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's build something
-
-<a href="https://www.linkedin.com/in/nayansaireddy/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-*Thanks for stopping by — let's explore the fascinating world of technology together. 🚀*
-
-</div>
+<!---
+Nayansai/Nayansai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
