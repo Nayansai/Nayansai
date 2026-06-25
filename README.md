@@ -1,22 +1,15 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--   Glass header banner — host glass-header.svg in your repo root  -->
-<!--   (or in an /assets folder) and the path below will render it.   -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Nayansai/Nayansai/main/glass-header.svg" alt="Nayan Sai — AI Engineer · Salesforce Developer · Full Stack" width="100%" />
 
 <br/>
 
-<!-- Animated typing line -->
 <a href="https://github.com/Nayansai">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+making;Salesforce+Developer+%26+Admin;Full+Stack+Web+Developer;Glassmorphism+%26+motion+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+making;Salesforce+Developer+%26+Admin;Full+Stack+Web+Developer;Glassmorphism+%26+motion+enthusiast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social + counter badges (flat-square reads cleaner against glass) -->
 <a href="https://www.linkedin.com/in/nayansaireddy/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -54,7 +47,9 @@ I'm a **B.Tech Computer Science** student at **GNITC**, focused on **AI engineer
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,linux,git,github" alt="data" />
 
-**Salesforce** &nbsp;·&nbsp; **Canva** &nbsp;·&nbsp; **Claude API & Agent Skills**
+<br/>
+
+**Salesforce** · **Canva** · **Claude API & Agent Skills**
 
 </div>
 
@@ -67,9 +62,9 @@ I'm a **B.Tech Computer Science** student at **GNITC**, focused on **AI engineer
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nayansai&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A12&title_color=67E8F9&icon_color=A855F7&text_color=B4B4D0" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Nayansai&hide_border=true&background=0A0A12&stroke=67E8F9&ring=A855F7&fire=67E8F9&currStreakLabel=B4B4D0&sideLabels=B4B4D0&dates=6B6B85&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayansai&langs_count=10&layout=compact&hide_border=true&bg_color=0A0A12&title_color=67E8F9&text_color=B4B4D0" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayansai&langs_count=10&layout=compact&hide_border=true&bg_color=0A0A12&title_color=67E8F9&text_color=B4B4D0" alt="Top Languages" />
 
 </div>
 
@@ -105,11 +100,6 @@ I'm a **B.Tech Computer Science** student at **GNITC**, focused on **AI engineer
 
 <br/><br/>
 
-<i>Thanks for stopping by — let's explore the fascinating world of technology together. 🚀</i>
+*Thanks for stopping by — let's explore the fascinating world of technology together. 🚀*
 
 </div>
-
-<!--
-Nayansai/Nayansai is a ✨ special ✨ repository because its README.md
-appears on your GitHub profile. Click Preview to see your changes.
--->
