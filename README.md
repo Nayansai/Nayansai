@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./glass-header.svg" alt="Nayan Sai — AI Engineer · Salesforce Developer · Full Stack" width="100%" />
+<img src="https://raw.githubusercontent.com/Nayansai/Nayansai/main/glass-header.svg" alt="Nayan Sai — AI Engineer · Salesforce Developer · Full Stack" width="100%" />
 
 <br/>
 
